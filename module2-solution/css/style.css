@@ -2,10 +2,13 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
-  }
-  
-h1 {
     font-family: "Comic Sans MS", cursive, sans-serif;
+    
+  }
+  body{
+      background-color: rgb(181, 233, 227);
+  }
+h1 {
     text-align: center;
     margin-top: 5%;
     margin-bottom: 5%; 
@@ -167,5 +170,5 @@ h1 {
       border:2px solid #000;
       margin:10px;
       background-color:#999;
-      padding: 50px 10px 10px 10px;
+      padding: 40px 10px 10px 10px;
   }

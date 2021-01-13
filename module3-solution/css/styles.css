@@ -1,0 +1,15 @@
+
+section{
+  background-color: #999;
+  text-align: justify;
+  border: 10px solid white;
+}
+.nav_background{
+  background-color: #999;
+}
+header{
+  background-color: #999;
+}
+body{
+  border: 2px solid black;
+}
